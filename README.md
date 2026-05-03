@@ -79,7 +79,7 @@ I'm a **Machine Learning Engineer** and **Python developer** passionate about bu
   <!-- <img src="https://YOUR_VERCEL_DOMAIN/api?username=hunterness-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" /> -->
   <!-- <img src="https://YOUR_VERCEL_DOMAIN/api/top-langs/?username=hunterness-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" /> -->
   
-  <img src="https://streak-stats.demolab.com?user=hunterness-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://gh-stats.com/api/streak?username=hunterness-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -155,7 +155,7 @@ Asynchronous web scraper with proxy rotation for efficient data collection.
   <a href="https://t.me/hunterafterban" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:farzan2410@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/hunterness-dev">
