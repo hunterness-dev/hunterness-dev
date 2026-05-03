@@ -74,12 +74,12 @@ I'm a **Machine Learning Engineer** and **Python developer** passionate about bu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hunterness-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterness-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hunterness-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Stats temporarily removed due to service outage -->
+  <!-- Uncomment and replace URL after setting up personal Vercel -->
+  <!-- <img src="https://YOUR_VERCEL_DOMAIN/api?username=hunterness-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" /> -->
+  <!-- <img src="https://YOUR_VERCEL_DOMAIN/api/top-langs/?username=hunterness-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" /> -->
+  
+  <img src="https://streak-stats.demolab.com?user=hunterness-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -155,7 +155,7 @@ Asynchronous web scraper with proxy rotation for efficient data collection.
   <a href="https://t.me/hunterafterban" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:farzan2410@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/hunterness-dev">
@@ -169,12 +169,12 @@ Asynchronous web scraper with proxy rotation for efficient data collection.
 
 ### 📌 Pinned Repositories
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/hunterness-dev/MachineLearningProjects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hunterness-dev&repo=MachineLearningProjects&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/Repo-MachineLearningProjects-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/hunterness-dev/house-price-predictor-from-scratch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hunterness-dev&repo=house-price-predictor-from-scratch&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/Repo-House_Price_Predictor_from_Scratch-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
