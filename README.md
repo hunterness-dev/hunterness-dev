@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
@@ -12,9 +13,9 @@
 
 ## 🚀 About Me
 
-I'm a **Machine Learning Engineer** and **Python developer** passionate about building intelligent systems and automation tools.
+I'm a **Machine Learning Engineer** and **Python developer** passionate about building intelligent systems and automation tools. I've implemented Linear Regression from scratch with NumPy and gradient descent — no shortcuts.
 
-- 🔭 Currently working on **Machine Learning projects**
+- 🔭 Currently working on **From-scratch ML implementations**
 - 🌱 Learning **Deep Learning & Neural Networks**
 - 👯 Looking to collaborate on **ML/AI open-source projects**
 - ⚡ Fun fact: I write code that works... most of the time 😄
@@ -24,7 +25,10 @@ I'm a **Machine Learning Engineer** and **Python developer** passionate about bu
 ## 🛠️ Tech Stack
 
 ### Machine Learning & Data Science
-`Python` `pandas` `NumPy` `matplotlib` `seaborn` `scikit-learn` `Decision Trees` `Ridge/Lasso` `Cross-Validation`
+`Python` `pandas` `NumPy` `matplotlib` `seaborn` `scikit-learn` `TensorFlow/Keras` `XGBoost` `Decision Trees` `Ridge/Lasso` `Cross-Validation`
+
+### Deep Learning
+`Neural Networks` `BatchNormalization` `Dropout` `EarlyStopping` `Adam Optimizer`
 
 ### GUI & Desktop Applications
 `PyQt5` `Pygame` `Telegram Bots`
@@ -45,9 +49,22 @@ I'm a **Machine Learning Engineer** and **Python developer** passionate about bu
 
 ## 🏆 Featured Projects
 
+### 🏠 House Price Predictor — From Scratch ⭐
+**[house-price-predictor-from-scratch](https://github.com/hunterness-dev/house-price-predictor-from-scratch)**
+> Linear Regression from scratch with NumPy & gradient descent. R² = 0.957, matches sklearn!
+
+- ✅ Custom gradient descent implementation
+- ✅ L2 regularization (Ridge)
+- ✅ Polynomial features support
+- ✅ Streamlit UI + CLI interface
+- ✅ Save/Load model weights
+
 ### 🤖 Machine Learning Projects
 **[MachineLearningProjects](https://github.com/hunterness-dev/MachineLearningProjects)**
-> 6 ML projects: Regression, Classification, GUI apps, Regularization
+> 10 ML projects: Regression, Classification, GUI apps, Regularization, XGBoost, Neural Networks
+
+### 🧠 Neural Network Spam Detection
+> 3-layer network with BatchNorm & Dropout | 77% accuracy | AUC 0.833
 
 ### 🎵 Spotify Playlist Splitter
 **[spotify-playlist-splitter](https://github.com/hunterness-dev/spotify-playlist-splitter)**
@@ -68,16 +85,18 @@ I'm a **Machine Learning Engineer** and **Python developer** passionate about bu
 
 ## 📈 My Learning Journey
 
-| Topic | Status |
-|-------|--------|
-| Linear Regression | ✅ Completed |
-| Polynomial Regression | ✅ Completed |
-| KNN Classification | ✅ Completed |
-| Ridge/Lasso | ✅ Completed |
-| Cross-Validation | ✅ Completed |
-| Decision Trees | ✅ Completed |
-| Random Forest | 🔄 In Progress |
-| Neural Networks | 📅 Planned |
+| Topic | Status | Project |
+|-------|--------|---------|
+| Linear Regression (from scratch) | ✅ Completed | House Price Predictor |
+| Polynomial Regression | ✅ Completed | Polynomial GUI |
+| KNN Classification | ✅ Completed | Spam Detection GUI |
+| Ridge/Lasso | ✅ Completed | Regularization Comparison |
+| Cross-Validation | ✅ Completed | Degree Selection |
+| Decision Trees | ✅ Completed | Spam Detection |
+| Random Forest | ✅ Completed | Model Comparison |
+| XGBoost | ✅ Completed | RF vs XGB (16 plots) |
+| Neural Networks | ✅ Completed | Spam Detection (77% acc) |
+| CNN / Computer Vision | 📅 Planned | - |
 
 ---
 
@@ -87,10 +106,10 @@ I'm a **Machine Learning Engineer** and **Python developer** passionate about bu
   <a href="https://github.com/hunterness-dev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:farzan.2410@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/farzan-h">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
