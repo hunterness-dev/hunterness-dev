@@ -79,7 +79,7 @@ I'm a **Machine Learning Engineer** and **Python developer** passionate about bu
   <!-- <img src="https://YOUR_VERCEL_DOMAIN/api?username=hunterness-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" /> -->
   <!-- <img src="https://YOUR_VERCEL_DOMAIN/api/top-langs/?username=hunterness-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" /> -->
   
-  <img src="https://gh-stats.com/api/streak?username=hunterness-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=hunterness-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
